@@ -11,7 +11,7 @@ This project focuses on initiating automated testing practices by creating an em
 
 
 ## Getting Started
-Includes a 20-page guide on how to operate the control box
+Includes a 20-page guide on how to operate the control box (not included here). 
 
 ### Prerequisites
 - Arduino IDE
